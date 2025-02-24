@@ -1,0 +1,123 @@
+#animalchanger.oryx {
+  background-color: #bb7979;
+}
+#animalchanger.oryx .shard-wrap:nth-child(1) {
+  clip-path: polygon(23.25% 43.286%, 31.25% 33.571%, 46.85% 36.286%);
+  background-color: #efdccd;
+}
+#animalchanger.oryx .shard-wrap:nth-child(2) {
+  clip-path: polygon(32.5% 60%, 36.05% 55%, 41.75% 66.857%);
+  background-color: #7b7362;
+}
+#animalchanger.oryx .shard-wrap:nth-child(3) {
+  clip-path: polygon(23.35% 43.286%, 34.8% 57.5%, 23.45% 56.143%);
+  background-color: #ae886d;
+}
+#animalchanger.oryx .shard-wrap:nth-child(4) {
+  clip-path: polygon(23.45% 56.143%, 34.66% 57.3%, 22.45% 71.714%);
+  background-color: #d7c5a4;
+}
+#animalchanger.oryx .shard-wrap:nth-child(5) {
+  clip-path: polygon(27.85% 65.429%, 33.05% 59.2%, 29.75% 85.857%);
+  background-color: #7f6b5f;
+}
+#animalchanger.oryx .shard-wrap:nth-child(6) {
+  clip-path: polygon(23.25% 43.286%, 46.85% 36.286%, 35.05% 57.714%);
+  background-color: #dacdbc;
+}
+#animalchanger.oryx .shard-wrap:nth-child(7) {
+  clip-path: polygon(22.45% 71.714%, 28.3% 64.714%, 24.65% 85.857%);
+  background-color: #f2e1c5;
+}
+#animalchanger.oryx .shard-wrap:nth-child(8) {
+  clip-path: polygon(36.55% 54.714%, 46.85% 36.286%, 50.65% 52.286%);
+  background-color: #e9dcc4;
+}
+#animalchanger.oryx .shard-wrap:nth-child(9) {
+  clip-path: polygon(36% 54.857%, 50.65% 52.286%, 41.85% 66.857%);
+  background-color: #cfba91;
+}
+#animalchanger.oryx .shard-wrap:nth-child(10) {
+  clip-path: polygon(41.75% 66.857%, 50.65% 52.143%, 56.05% 64.714%);
+  background-color: #baae96;
+}
+#animalchanger.oryx .shard-wrap:nth-child(11) {
+  clip-path: polygon(46.75% 36.429%, 54.35% 33%, 61.25% 36.429%);
+  background-color: #f3eadf;
+}
+#animalchanger.oryx .shard-wrap:nth-child(12) {
+  clip-path: polygon(46.75% 36.429%, 61.15% 36.286%, 50.65% 52.143%);
+  background-color: #ebe1cb;
+}
+#animalchanger.oryx .shard-wrap:nth-child(13) {
+  clip-path: polygon(50.4% 52.286%, 61.25% 36.1%, 60.96% 56.143%);
+  background-color: #ddcfb7;
+}
+#animalchanger.oryx .shard-wrap:nth-child(14) {
+  clip-path: polygon(59.65% 63.286%, 63.65% 61.714%, 61.05% 86%);
+  background-color: #8a7b63;
+}
+#animalchanger.oryx .shard-wrap:nth-child(15) {
+  clip-path: polygon(50.55% 52.286%, 60.85% 56.143%, 60.55% 75.143%);
+  background-color: #ebe1cb;
+}
+#animalchanger.oryx .shard-wrap:nth-child(16) {
+  clip-path: polygon(58.15% 69.714%, 60.45% 75%, 58.95% 85.714%);
+  background-color: #a89f92;
+}
+#animalchanger.oryx .shard-wrap:nth-child(17) {
+  clip-path: polygon(61.25% 36.429%, 66.25% 60.5%, 60.73% 63%);
+  background-color: #78523b;
+}
+#animalchanger.oryx .shard-wrap:nth-child(18) {
+  clip-path: polygon(61.15% 36.286%, 69.75% 23.429%, 73.75% 35.286%);
+  background-color: #a2785c;
+}
+#animalchanger.oryx .shard-wrap:nth-child(19) {
+  clip-path: polygon(61.15% 36.2%, 73.7% 35.23%, 66.14% 60.7%);
+  background-color: #825d48;
+}
+#animalchanger.oryx .shard-wrap:nth-child(20) {
+  clip-path: polygon(73.55% 35.286%, 76.25% 36%, 66.2% 60.429%);
+  background-color: #634c39;
+}
+#animalchanger.oryx .shard-wrap:nth-child(21) {
+  clip-path: polygon(69.65% 23.429%, 74.15% 22.429%, 73.75% 35.286%);
+  background-color: #b98d5d;
+}
+#animalchanger.oryx .shard-wrap:nth-child(22) {
+  clip-path: polygon(73.75% 35.286%, 74.15% 20%, 79.55% 28.143%);
+  background-color: #ece1d5;
+}
+#animalchanger.oryx .shard-wrap:nth-child(23) {
+  clip-path: polygon(79.45% 28%, 84.55% 34.286%, 75.95% 32.571%);
+  background-color: #d2c9c1;
+}
+#animalchanger.oryx .shard-wrap:nth-child(24) {
+  clip-path: polygon(75.95% 32.571%, 84.45% 34.143%, 84.15% 38.429%);
+  background-color: #b4aba0;
+}
+#animalchanger.oryx .shard-wrap:nth-child(25) {
+  clip-path: polygon(75.95% 32.429%, 83.45% 38%, 73.75% 35.286%);
+  background-color: #afa491;
+}
+#animalchanger.oryx .shard-wrap:nth-child(26) {
+  clip-path: polygon(70.65% 23.286%, 69.95% 17.714%, 73.05% 22.857%);
+  background-color: #776244;
+}
+#animalchanger.oryx .shard-wrap:nth-child(27) {
+  clip-path: polygon(73.05% 22.857%, 67.95% 7.714%, 75.35% 21.714%);
+  background-color: #514c49;
+}
+#animalchanger.oryx .shard-wrap:nth-child(28) {
+  clip-path: polygon(50.55% 1.714%, 67.99% 7.857%, 68.98% 10.571%);
+  background-color: #312f34;
+}
+#animalchanger.oryx .shard-wrap:nth-child(29) {
+  clip-path: polygon(39.15% 7.714%, 50.65% 1.714%, 52.95% 2.857%);
+  background-color: #272220;
+}
+#animalchanger.oryx .shard-wrap:nth-child(30) {
+  clip-path: polygon(72.65% 22.857%, 77.95% 16.286%, 75.35% 22.714%);
+  background-color: #c8c0b9;
+}

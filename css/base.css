@@ -1,0 +1,111 @@
+/* Base of the page */
+@font-face {
+  font-family: "BlocExtCondC";
+  src: url("../asset/font/BlocExt_Font/BlocExtCondC\ Regular.ttf")
+    format("truetype");
+}
+* {
+  margin: 0%;
+  padding: 0%;
+}
+body,
+html {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  position: absolute;
+  color: #fff;
+  font-size: 10px;
+  line-height: 1.1em;
+  letter-spacing: 0.03em;
+  margin: 0;
+  overflow: hidden;
+  -webkit-transition: background 0.5s;
+  -moz-transition: background 0.5s;
+  transition: background 0.5s;
+  -webkit-font-smoothing: antialiased;
+  text-transform: uppercase;
+}
+.main-frame {
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* Animal Changer and Shard Container */
+#animalchanger {
+  height: 100%;
+  width: 100%;
+  -webkit-transition: background 0.5s;
+  -moz-transition: background 0.5s;
+  transition: background 0.5s;
+  transition: background 0.5s ease, border-radius 0.5s ease;
+  overflow: hidden;
+}
+.animal-wrap-container {
+  -webkit-transition: 0.8s cubic-bezier(0.88, 0.005, 0, 1);
+  -moz-transition: 0.8s cubic-bezier(0.88, 0.005, 0, 1);
+  transition: 0.8s cubic-bezier(0.88, 0.005, 0, 1);
+  -webkit-transform: scale(0.6) translateY(-15%);
+  -moz-transform: scale(0.6) translateY(-15%);
+  -ms-transform: scale(0.6) translateY(-15%);
+  -o-transform: scale(0.6) translateY(-15%);
+  transform: scale(0.6) translateY(-15%);
+  top: 0;
+  left: 0;
+  z-index: 3;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background-color: transparent !important;
+}
+.shard-wrap {
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+  transition: 0.5s;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: 100;
+}
+/* Pieces Selection Container */
+.piece-selecter-container {
+  position: absolute;
+  top: auto;
+  left: 3%;
+  padding: 30px 10px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  gap: 30px;
+  z-index: 10000;
+}
+.piece-selecter-container h3,
+.animal-selecter-container h3 {
+  color: #4c4c4c;
+  font-size: 18px;
+  font-family: "BlocExtCondC", sans-serif;
+  cursor: pointer;
+}
+.piece-selecter-container .highlight,
+.animal-selecter-container .highlight {
+  color: rgb(0, 0, 0);
+}
+/* Animal Selector */
+.animal-selecter-container {
+  position: absolute;
+  bottom: 10%;
+  left: auto;
+  padding: 10px 30px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 30px;
+  z-index: 10000;
+}

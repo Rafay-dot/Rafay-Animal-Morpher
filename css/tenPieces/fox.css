@@ -1,0 +1,123 @@
+#animalchanger.fox {
+  background-color: #c56e6d;
+}
+/* Left ear */
+#animalchanger.fox .shard-wrap:nth-child(1) {
+  clip-path: polygon(36.41% 39.82%, 45.14% 25.66%, 35.16% 10.03%);
+  background-color: #d97a41;
+}
+/* Right ear */
+#animalchanger.fox .shard-wrap:nth-child(2) {
+  clip-path: polygon(54.11% 25.66%, 62.7% 38.85%, 62.7% 9.78%);
+  background-color: #e79361;
+}
+/* Left Face */
+#animalchanger.fox .shard-wrap:nth-child(3) {
+  clip-path: polygon(36.41% 39.82%, 45.14% 25.66%, 49.6% 63.14%);
+  background-color: #d36c2f;
+}
+/* Center Face */
+#animalchanger.fox .shard-wrap:nth-child(4) {
+  clip-path: polygon(45.14% 25.66%, 54.11% 25.66%, 49.6% 63.14%);
+  background-color: #dc7b42;
+}
+/* Right Face */
+#animalchanger.fox .shard-wrap:nth-child(5) {
+  clip-path: polygon(54.11% 25.66%, 62.7% 38.85%, 49.6% 63.14%);
+  background-color: #dd8550;
+}
+/* Nose */
+#animalchanger.fox .shard-wrap:nth-child(6) {
+  clip-path: polygon(
+    48.07% 59.88%,
+    49.61% 58.75%,
+    51.26% 60.04%,
+    49.61% 63.07%
+  );
+
+  background-color: #000000;
+}
+/* Left Leg */
+#animalchanger.fox .shard-wrap:nth-child(7) {
+  clip-path: polygon(42.75% 50.97%, 49.8% 62.77%, 50% 88.69%);
+  background-color: #dc7b42;
+}
+/* Right Leg */
+#animalchanger.fox .shard-wrap:nth-child(8) {
+  clip-path: polygon(57.24% 48.98%, 49.8% 62.74%, 50% 88.69%);
+  background-color: #e5a589;
+}
+/* Body */
+#animalchanger.fox .shard-wrap:nth-child(9) {
+  clip-path: polygon(
+    58.08% 47.35%,
+    57.18% 49.02%,
+    50% 88.79%,
+    62.14% 88.79%,
+    70.04% 66.55%
+  );
+  background-color: #e79361;
+}
+/* Tail */
+#animalchanger.fox .shard-wrap:nth-child(10) {
+  clip-path: polygon(70.04% 66.55%, 58.42% 98.98%, 69.72% 89.04%);
+  background-color: #dc7b42;
+}
+
+/* Coordinates */
+/*
+1512, 982
+
+1 - Left ear
+550.5/1512 391/982
+682.5/1512 252/982
+531.5/1512 98.5/982
+
+2 - Right ear
+818/1512 252/982
+948/1512 381.5/982
+948/1512 96/982
+
+3 - Left Face
+550.5/1512 391/982
+682.5/1512 252/982
+750/1512 620/982
+
+4 - Center Face
+682.5/1512 252/982
+818/1512 252/982
+750/1512 620/982
+
+5 - Right Face
+818/1512 252/982
+948/1512 381.5/982
+750/1512 620/982
+
+6 - Nose
+726.5/1512 588/982
+750.07/1512 577/982
+775/1512 589.5/982
+750.07/1512 619.5/982
+
+7 - Left Leg
+646/1512 500.5/982
+753/1512 616.5/982
+756/1512 871/982
+
+8 - Right Leg
+865/1512 481/982
+753/1512 616/982
+756/1512 871/982
+
+9 - Body
+878/1512 465/982
+864.5/1512 481.5/982
+756/1512 872/982
+939.5/1512 872/982
+1059/1512 653.5/982
+
+10 - Tail
+1059/1512 653.5/982
+883/1512 972/982
+1054/1512 874.5/982
+*/
